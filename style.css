@@ -1,7 +1,11 @@
 body {
+    /* font and coloring stufffff... */
     font-family: system-ui, -apple-system, sans-serif;
     background-color: #0d1117;
     color: #c9d1d9;
+
+    /* width thingys */
+    width: 90%;
     max-width: 800px;
     margin: 40px auto;
     padding: 0 20px;
