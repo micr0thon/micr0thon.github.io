@@ -12,6 +12,12 @@ body {
     padding: 0 15px;
 }
 
+.social-media {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 20px;
+
 .social-buttons {
     display: inline-block;
     background-color: #178acc;
