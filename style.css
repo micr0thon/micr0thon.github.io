@@ -12,7 +12,7 @@ body {
     padding: 0 15px;
 }
 
-.yt-button {
+.social-buttons {
     display: inline-block;
     background-color: #178acc;
     color: #c9d1d9;
@@ -23,6 +23,6 @@ body {
     transition: background-color 0.2s ease;
 }
 
-.yt-button:hover {
+.social-buttons:hover {
     background-color: #2295d4;
 }
